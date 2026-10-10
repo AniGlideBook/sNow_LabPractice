@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-10-10 17:08:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Module 1 lab – created my1st update Set</description>
+<inserted/>
+<name>01_WorkSpace_Ani</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>35363adec3b7431082a7d8477d0131aa</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>628a731ac37f431082a7d8477d0131f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_3d2daf9ec33f431082a7d8477d013199</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MyToolkit">fb1aab5ac33f431082a7d8477d01312f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><karuna_route/><link_type>DIRECT</link_type><map_page/><mobile_title>Lab_1c_link to backgroundScripts</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query>sys.scripts.do</query><report/><require_confirmation>true</require_confirmation><roles/><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 16:14:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3d2daf9ec33f431082a7d8477d013199</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lab_1c_link to backgroundScripts</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_3d2daf9ec33f431082a7d8477d013199</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 16:14:32</sys_updated_on><timeline_page/><title>Lab_1c_link to backgroundScripts</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-277405390</payload_hash>
+<remote_update_set display_value="01_WorkSpace_Ani">628a731ac37f431082a7d8477d0131f6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>268a731ac37f431082a7d8477d0131f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a1269838880000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<table/>
+<target_name>Lab_1c_link to backgroundScripts</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>992e6b122f7f43100b83390d7aaafbe4</update_guid>
+<update_guid_history>992e6b122f7f43100b83390d7aaafbe4:-277405390</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_4247f652c3f7431082a7d8477d01314f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Update set capture test</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>Module_A1</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 12:17:05</sys_created_on><sys_id>4247f652c3f7431082a7d8477d01314f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Module_A1</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_4247f652c3f7431082a7d8477d01314f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 12:17:05</sys_updated_on><type>string</type><value>Hello</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=4247f652c3f7431082a7d8477d01314f"/></record_update>]]></payload>
+<payload_hash>-933133204</payload_hash>
+<remote_update_set display_value="01_WorkSpace_Ani">628a731ac37f431082a7d8477d0131f6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>2a8a731ac37f431082a7d8477d0131f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a125bed8980000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<table/>
+<target_name>Module_A1</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>93c77692bdf74310f258b92cb4d9a363</update_guid>
+<update_guid_history>93c77692bdf74310f258b92cb4d9a363:-933133204</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_8f2eab12c37f431082a7d8477d013160</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MyToolkit">fb1aab5ac33f431082a7d8477d01312f</application><assessment/><device_type/><filter/><hint/><homepage/><image/><karuna_route/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Lab_1d_seperator</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 16:15:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8f2eab12c37f431082a7d8477d013160</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lab_1d_seperator</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_8f2eab12c37f431082a7d8477d013160</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 16:15:04</sys_updated_on><timeline_page/><title>Lab_1d_seperator</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>379622573</payload_hash>
+<remote_update_set display_value="01_WorkSpace_Ani">628a731ac37f431082a7d8477d0131f6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>6a8a731ac37f431082a7d8477d0131f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a12698b6750000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<table/>
+<target_name>Lab_1d_seperator</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>4d4eeb12317f4310f70fb04b4472cdc1</update_guid>
+<update_guid_history>4d4eeb12317f4310f70fb04b4472cdc1:379622573</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_fb1aab5ac33f431082a7d8477d01312f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 15:58:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb1aab5ac33f431082a7d8477d01312f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MyToolkit</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_application_fb1aab5ac33f431082a7d8477d01312f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 15:58:06</sys_updated_on><title>MyToolkit</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>429529673</payload_hash>
+<remote_update_set display_value="01_WorkSpace_Ani">628a731ac37f431082a7d8477d0131f6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>a68a731ac37f431082a7d8477d0131f6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a126892c7e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<table/>
+<target_name>Module1_Lab_1a_MyToolkit</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>a06a639a493f43106658bf77e45c6a31</update_guid>
+<update_guid_history>a06a639a493f43106658bf77e45c6a31:429529673</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_9c8a679ac33f431082a7d8477d01312d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MyToolkit">fb1aab5ac33f431082a7d8477d01312f</application><assessment/><device_type/><filter table="incident">assigned_to=62826bf03710200044e0bfc8bcbe5df1^active=true^priority=1^EQ<item display_table="sys_user" display_value="Abel Tuter" endquery="false" field="assigned_to" goto="false" newquery="false" operator="=" or="false" value="62826bf03710200044e0bfc8bcbe5df1"/><item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><karuna_route/><link_type>LIST</link_type><map_page/><mobile_title>My open P1 incidents</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>incident</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 16:07:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9c8a679ac33f431082a7d8477d01312d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lab_1a_My open P1 incidents</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_9c8a679ac33f431082a7d8477d01312d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 16:07:05</sys_updated_on><timeline_page/><title>Lab_1a_My open P1 incidents</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>275843183</payload_hash>
+<remote_update_set display_value="01_WorkSpace_Ani">628a731ac37f431082a7d8477d0131f6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>ae8a731ac37f431082a7d8477d0131f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a12691662b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<table>incident</table>
+<target_name>Lab_1a_My open P1 incidents</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>887c679a6e3f43103fc910492980d7fc</update_guid>
+<update_guid_history>887c679a6e3f43103fc910492980d7fc:275843183</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_cc8cab5ec33f431082a7d8477d0131f9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="MyToolkit">fb1aab5ac33f431082a7d8477d01312f</application><assessment/><device_type/><filter table="sys_update_set">state=in progress^EQ<item display_value="In progress" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="in progress"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><karuna_route/><link_type>LIST</link_type><map_page/><mobile_title>La1b_a link to sys_update_set</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_update_set</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-10 16:09:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cc8cab5ec33f431082a7d8477d0131f9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Lab_1b_a link to sys_update_set</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_cc8cab5ec33f431082a7d8477d0131f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-10 16:10:04</sys_updated_on><timeline_page/><title>Lab_1b_a link to sys_update_set</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-1195957801</payload_hash>
+<remote_update_set display_value="01_WorkSpace_Ani">628a731ac37f431082a7d8477d0131f6</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-10 17:08:42</sys_created_on>
+<sys_id>e28a731ac37f431082a7d8477d0131f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1a1269422060000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-10 17:08:42</sys_updated_on>
+<table>sys_update_set</table>
+<target_name>Lab_1b_a link to sys_update_set</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>731d6f9eda3f43106cabb064cff531b9</update_guid>
+<update_guid_history>731d6f9eda3f43106cabb064cff531b9:-1195957801,8a0dab9eb03f4310c6798aa814c84cb5:-2000991587</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
